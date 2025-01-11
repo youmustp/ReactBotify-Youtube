@@ -1,6 +1,6 @@
 <div align = center>
 
-# MrBeastify
+# ReactBottify
 
 Is your browser experience boring? Are you having  
 trouble finding engaging click-baity videos?
@@ -8,7 +8,7 @@ trouble finding engaging click-baity videos?
 **Fear no more.**
 
 This extension adds the famous  
-youtuber **MrBeast** to every thumbnail.
+youtuber **ReactBot** to every thumbnail.
 
 [![Button Download Firefox]][Download Firefox]  
 [![Button Download Chrome]][Download Chrome]  
@@ -18,7 +18,7 @@ youtuber **MrBeast** to every thumbnail.
 
 ## Notes
 
-- This extension should be compatible with any Firefox / Chromium based browser.
+- This extension should be compatible with any Chromium based browser.
 - This extension was inspired by **[Unnecessary Inventions][UI YouTube]** and his **[Website][UI Website]**.
 - This extension is unofficial and not affiliated with MrBeast or YouTube.
 
