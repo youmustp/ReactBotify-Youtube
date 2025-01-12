@@ -1,6 +1,6 @@
 <div align = center>
 
-# ReactBottify
+# ReactBotify
 
 Is your browser experience boring? Are you having  
 trouble finding engaging click-baity videos?
