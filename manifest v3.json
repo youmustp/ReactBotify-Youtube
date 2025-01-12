@@ -1,11 +1,11 @@
 {
     "manifest_version": 3,
-    "name": "YouTube MrBeastify",
-    "version": "1.7.5",
+    "name": "YouTube ReactBotify",
+    "version": "1.0",
     "icons": {
         "96": "icon.png"
     },
-    "description": "Modify YouTube thumbnails to include MrBeast",
+    "description": "Modify YouTube thumbnails to include ReactBot",
     "action": {
         "default_popup": "settings.html"
     },
