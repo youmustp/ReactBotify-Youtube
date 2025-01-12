@@ -7,8 +7,7 @@ trouble finding engaging click-baity videos?
 
 **Fear no more.**
 
-This extension adds the famous  
-youtuber **ReactBot** to every thumbnail.
+This extension adds the famous **ReactBot** to every thumbnail.
 
 [![Button Download Firefox]][Download Firefox]  
 [![Button Download Chrome]][Download Chrome]  
