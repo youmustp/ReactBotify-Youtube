@@ -9,9 +9,7 @@ trouble finding engaging click-baity videos?
 
 This extension adds the famous **ReactBot** to every thumbnail.
 
-[![Button Download Firefox]][Download Firefox]  
-[![Button Download Chrome]][Download Chrome]  
-[![Button Download Edge]][Download Edge]
+Get from releases!!!
 
 </div>
 
