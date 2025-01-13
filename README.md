@@ -9,7 +9,7 @@ trouble finding engaging click-baity videos?
 
 This extension adds the famous **ReactBot** to every thumbnail.
 
-Get from releases!!!
+Get from [releases](https://github.com/youmustp/ReactBotify-Youtube/releases/latest)!!!
 
 </div>
 
